@@ -16,7 +16,7 @@ const cap1 = Object.assign({}, person);
  // Test by modifying players and person
 players.push("Sarah"); 
 
-person.name = "jane smith";
+person.name = "John Doe";
 
 // Testing the variables
 console.log("team:", team); 
