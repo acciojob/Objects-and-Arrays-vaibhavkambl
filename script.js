@@ -14,7 +14,7 @@ const person = {
 const cap1 = Object.assign({}, person);
 
  // Test by modifying players and person
-players.push("Sarah"); 
+players.push("Alice"); 
 
 person.name = "John Doe";
 
